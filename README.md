@@ -2,7 +2,7 @@
 Analytic Sensitivity Estimates for Long-Lived Particles (LLPs) Searches at Tera-Z Factories (FCC-ee, CEPC, LEP3 and LEP-Z)
 
 **Authors:** Marco Drewes, Juraj Klarić, and Yuan-Zhen Li  
-**Reference:** [arXiv:25XX.XXXXX](https://arxiv.org/abs/25XX.XXXXX) (New Particles at the Z-Pole: Tera-Z factories as discovery and precision machines)
+**Reference:** [arXiv:2511.23461](https:arxiv.org/abs/2511.23461) (New Particles at the Z-Pole: Tera-Z factories as discovery and precision machines)
 
 ### Overview
 This notebook implements the analytic formulae derived in the associated paper to estimate the sensitivity of future Z-factories (FCC-ee, CEPC, LEP3 and LEP-Z) to Long-Lived Particles (LLPs). 
